@@ -1,7 +1,7 @@
 # PythonRayTrack
 a Python RayTrack code (single process and multiprocess)
 
-requirements: numpy,
+requirements: numpy, matplotlib
 
 how to run
 
